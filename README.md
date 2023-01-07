@@ -1,2 +1,2 @@
-# javascript-tutorial
+# Javascript-tutorial
 javascript learning process
